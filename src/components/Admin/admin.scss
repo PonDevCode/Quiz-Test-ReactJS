@@ -1,0 +1,39 @@
+.admin-container {
+    display: flex;
+
+    a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .admin-sidebar {
+        height: 100vh !important;
+
+        aside {
+            height: 100vh;
+
+            li {
+                list-style: none;
+
+                .css-1097eso {
+                    display: none;
+                }
+            }
+        }
+    }
+
+    .admin-content {
+        width: 100%;
+
+        .admin-header {
+
+            height: 40px;
+            border: 1px solid green;
+        }
+
+        .admin-main {
+
+        }
+
+    }
+}

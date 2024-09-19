@@ -1,0 +1,16 @@
+.HomePage-container{
+    display: flex;
+    padding-left: 40px;
+    padding-right: 40px;
+    .content{
+        padding-top: 20px;
+        padding-right: 40px;
+        p{
+            font-size: 64px;
+            font-weight: bold;
+        }
+        button{
+            margin-top: 20px;
+        }
+    }
+}
